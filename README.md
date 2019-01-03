@@ -1,4 +1,4 @@
-hdkey
+@tsiry/hdkey
 =====
 
 [![NPM Package](https://img.shields.io/npm/v/hdkey.svg?style=flat-square)](https://www.npmjs.org/package/hdkey)
@@ -11,7 +11,7 @@ A JavaScript component for [BIP32](https://github.com/bitcoin/bips/blob/master/b
 Installation
 ------------
 
-    npm i --save hdkey
+    npm i --save @tsiry/hdkey
 
 
 Usage
